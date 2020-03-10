@@ -1,6 +1,6 @@
 # NYTWIT
 
-This repository hosts the New York Times Word Innovation Types dataset (NYTWIT), as presented in [this report](https://www.cc.gatech.edu/~ypinter3/papers/NYTWIT_v1.pdf).
+This repository hosts the New York Times Word Innovation Types dataset (NYTWIT), as presented in [this report](https://arxiv.org/abs/2003.03444).
 
 ## Versions
 
