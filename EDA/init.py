@@ -34,6 +34,7 @@ def viewCols(data):
 1. Histogram of the different values in df[[Category]]
 
 """
+
 def retrieveUniqueVals(data):
     """
     Find the unique values in df[["Category"]] and append them to an array, uniqueArr
@@ -217,3 +218,4 @@ def determineInAlphabet(data):
     print(non_alphabet)
     print(alphabet)
 # determineInAlphabet(sub_df)
+
