@@ -7,7 +7,7 @@ Wed Nov 08 11:01:14 2017	andpinyon	filtered	https://www.nytimes.com/2017/11/08/s
 Wed Nov 08 11:01:42 2017	underdramatic	affix	https://www.nytimes.com/2017/11/08/books/review/purloining-prince-oleomargarine-philip-stead-mark-twain.html
 Wed Nov 08 11:02:00 2017	hyperhysteria	affix	https://www.nytimes.com/2017/11/08/books/review/purloining-prince-oleomargarine-philip-stead-mark-twain.html
 Wed Nov 08 13:01:19 2017	verbolect	filtered	https://www.nytimes.com/2017/11/08/arts/design/what-to-see-in-new-york-art-galleries-this-week.html
-Wed Nov 08 23:01:13 2017	fluffypoos	blend	https://www.nytimes.com/2017/11/08/nyregion/where-the-dogs-are.html
+Wed Nov 08 23:01:13 2017	fluffypoos	domain	https://www.nytimes.com/2017/11/08/nyregion/where-the-dogs-are.html
 Wed Nov 08 23:01:15 2017	shaggydoodles	compound new	https://www.nytimes.com/2017/11/08/nyregion/where-the-dogs-are.html
 Thu Nov 09 00:01:14 2017	presenence	filtered	https://www.nytimes.com/2017/11/08/obituaries/tzipora-jochsberger-founder-of-a-jewish-arts-school-dies-at-96.html
 Thu Nov 09 01:01:46 2017	initiativeson	filtered	https://www.nytimes.com/2017/11/08/health/medicaid-expansion-states.html
@@ -15,7 +15,7 @@ Thu Nov 09 02:01:13 2017	unrepulsed	affix	https://www.nytimes.com/2017/11/08/opi
 Thu Nov 09 04:01:17 2017	streakwise	affix	http://www.nytimes.com/2017/11/08/crosswords/daily-puzzle-2017-11-09.html
 Thu Nov 09 06:01:05 2017	aurais	filtered	https://www.nytimes.com/2017/11/09/arts/music/charlotte-gainsbourg-rest.html
 Thu Nov 09 20:01:14 2017	immunostained	domain	https://www.nytimes.com/2017/11/09/sports/aaron-hernandez-brain-cte.html
-Fri Nov 10 11:01:24 2017	gasbagging	compound comp	https://www.nytimes.com/2017/11/10/opinion/the-vacuity-of-the-vice-president.html
+Fri Nov 10 11:01:24 2017	gasbagging	compound new	https://www.nytimes.com/2017/11/10/opinion/the-vacuity-of-the-vice-president.html
 Fri Nov 10 16:01:26 2017	sadaesasang	filtered	https://www.nytimes.com/2017/11/10/magazine/in-the-debate-over-north-korea-does-anyone-care-what-south-korea-thinks.html
 Fri Nov 10 22:01:30 2017	codpieced	deriv	https://www.nytimes.com/2017/11/10/books/review/bruce-dickinson-what-does-this-button-do-iron-maiden-memoir.html
 Sat Nov 11 12:01:27 2017	oushe	filtered	https://www.nytimes.com/2017/11/11/travel/reems-oakland-restaurant-review.html
@@ -105,7 +105,7 @@ Fri Nov 24 11:01:51 2017	shostil	filtered	https://www.nytimes.com/2017/11/24/opi
 Fri Nov 24 17:01:14 2017	inihaw	filtered	https://www.nytimes.com/2017/11/24/dining/tito-rads-grill-review-queens.html
 Fri Nov 24 17:01:16 2017	carinderia	filtered	https://www.nytimes.com/2017/11/24/dining/tito-rads-grill-review-queens.html
 Fri Nov 24 17:01:20 2017	tortang	filtered	https://www.nytimes.com/2017/11/24/dining/tito-rads-grill-review-queens.html
-Fri Nov 24 21:01:16 2017	cyberlover	blend	https://www.nytimes.com/2017/11/24/style/modern-love-college-contest-winners-follow-up.html
+Fri Nov 24 21:01:16 2017	cyberlover	compound comp	https://www.nytimes.com/2017/11/24/style/modern-love-college-contest-winners-follow-up.html
 Fri Nov 24 23:01:10 2017	tasawwuf	filtered	https://www.nytimes.com/2017/11/24/world/middleeast/sufi-muslim-explainer.html
 Sat Nov 25 00:01:12 2017	polyfluoroalkyl	domain	https://www.nytimes.com/2017/11/24/us/michigan-water-wolverine-contamination.html
 Sat Nov 25 12:01:19 2017	foofier	infl	https://www.nytimes.com/2017/11/25/style/mermaid-tiki-bar-sip-n-dip.html
@@ -175,7 +175,7 @@ Fri Dec 15 11:03:05 2017	neuromythology	affix	https://www.nytimes.com/2017/12/14
 Fri Dec 15 12:01:14 2017	mushpie	compound comp	https://www.nytimes.com/2017/12/15/fashion/weddings/a-digital-message-in-a-bottle-was-waiting-for-him.html
 Fri Dec 15 12:03:57 2017	supersmelling	affix	https://www.nytimes.com/2017/12/08/magazine/judge-john-hodgman-on-eating-straight-out-of-the-fridge.html
 Fri Dec 15 13:01:31 2017	circulationism	deriv	https://www.nytimes.com/2017/12/15/arts/design/hito-steyerl.html
-Fri Dec 15 13:01:34 2017	junktime	compound comp	https://www.nytimes.com/2017/12/15/arts/design/hito-steyerl.html
+Fri Dec 15 13:01:34 2017	junktime	compound new	https://www.nytimes.com/2017/12/15/arts/design/hito-steyerl.html
 Fri Dec 15 15:01:44 2017	sefforts	filtered	https://www.nytimes.com/2017/12/15/arts/dance/diana-vishneva-context-festival-contemporary-dance-in-russia.html
 Fri Dec 15 15:02:45 2017	unholiday	affix	https://www.nytimes.com/2017/12/12/realestate/fix-holiday-decorating.html
 Fri Dec 15 18:01:53 2017	internethttps	filtered	https://www.nytimes.com/2017/12/15/business/ajit-pai-video.html
@@ -191,7 +191,7 @@ Sat Dec 16 19:01:04 2017	minuteslong	filtered	https://www.nytimes.com/2017/12/16
 Sun Dec 17 12:01:21 2017	émerveillait	filtered	not found
 Sun Dec 17 12:01:27 2017	taillées	filtered	https://www.nytimes.com/2017/12/17/world/europe/la-maison-la-plus-chere-du-monde-simple-babiole-pour-un-prince-saoudien.html
 Sun Dec 17 12:01:28 2017	labyrinthes	filtered	https://www.nytimes.com/2017/12/17/world/europe/la-maison-la-plus-chere-du-monde-simple-babiole-pour-un-prince-saoudien.html
-Sun Dec 17 20:01:13 2017	regramming	blend	https://www.nytimes.com/2017/12/17/technology/instagram-russian-trolls.html
+Sun Dec 17 20:01:13 2017	regramming	deriv	https://www.nytimes.com/2017/12/17/technology/instagram-russian-trolls.html
 Sun Dec 17 20:01:20 2017	arrhythmical	infl	https://www.nytimes.com/2017/12/17/obituaries/bette-howland-author-and-protege-of-bellows-dies-at-80.html
 Mon Dec 18 06:03:01 2017	grandkidswho	filtered	https://www.nytimes.com/2017/12/12/nyregion/metropolitan-diary-silver-alert.html?ref=todayspaper
 Mon Dec 18 11:02:07 2017	stranichka	filtered	https://www.nytimes.com/2017/12/18/magazine/what-if-anything-does-carter-page-know.html
@@ -298,7 +298,7 @@ Wed Jan 03 12:01:40 2018	cyptocurrency	filtered	https://www.nytimes.com/2018/01/
 Wed Jan 03 19:01:10 2018	aanenh	filtered	https://www.nytimes.com/2018/01/03/science/native-americans-beringia-siberia.html
 Wed Jan 03 19:01:46 2018	doobing	filtered	https://www.nytimes.com/2018/01/03/style/doob-action-figure.html
 Wed Jan 03 19:01:49 2018	doobed	deriv	https://www.nytimes.com/2018/01/03/style/doob-action-figure.html
-Thu Jan 04 01:01:13 2018	cryptocoin	blend	https://www.nytimes.com/2018/01/03/technology/russia-venezuela-virtual-currencies.html
+Thu Jan 04 01:01:13 2018	cryptocoin	compound comp	https://www.nytimes.com/2018/01/03/technology/russia-venezuela-virtual-currencies.html
 Thu Jan 04 01:01:34 2018	robovacuums	affix	https://www.nytimes.com/2018/01/03/technology/personaltech/ces-2018.html
 Thu Jan 04 01:01:38 2018	hashtaggable	affix	https://www.nytimes.com/2018/01/03/movies/times-up-golden-globes-red-carpet.html
 Thu Jan 04 04:01:08 2018	rulebreaker	compound comp	http://www.nytimes.com/2018/01/03/crosswords/daily-puzzle-2018-01-04.html
@@ -320,11 +320,11 @@ Fri Jan 05 20:01:21 2018	profused	deriv	https://www.nytimes.com/2018/01/05/nyreg
 Fri Jan 05 21:01:13 2018	subcollections	affix	https://www.nytimes.com/2018/01/05/obituaries/eugene-v-thaw-dies-art-collector-and-dealer.html
 Sat Jan 06 01:01:00 2018	knifequake	affix libfix	https://www.nytimes.com/2018/01/05/opinion/sunday/bomb-cyclone-cold-snow.html
 Sat Jan 06 02:01:09 2018	kleptotheocracy	compound new	https://www.nytimes.com/2018/01/05/opinion/finding-the-way-forward-on-iran.html
-Sat Jan 06 18:01:15 2018	gatechecked	compound comp	https://www.nytimes.com/2018/01/06/nyregion/jfk-airport-delays.html
+Sat Jan 06 18:01:15 2018	gatechecked	deriv	https://www.nytimes.com/2018/01/06/nyregion/jfk-airport-delays.html
 Sat Jan 06 20:01:33 2018	camptowns	infl	https://www.nytimes.com/2018/01/06/opinion/sunday/alt-right-asian-fetish.html
 Sat Jan 06 23:00:59 2018	solvingwise	affix	http://www.nytimes.com/2018/01/06/crosswords/daily-puzzle-2018-01-07.html
 Sun Jan 07 13:01:05 2018	underequiped	filtered	https://www.nytimes.com/2018/01/07/world/asia/myanmar-rohingya-militants.html
-Sun Jan 07 13:01:09 2018	cybersensation	blend	https://www.nytimes.com/2018/01/07/world/europe/italy-befana-piazza-navona.html
+Sun Jan 07 13:01:09 2018	cybersensation	compound comp	https://www.nytimes.com/2018/01/07/world/europe/italy-befana-piazza-navona.html
 Sun Jan 07 15:01:19 2018	compromete	filtered	https://www.nytimes.com/2018/01/07/world/americas/alberto-fujimori-peru.html
 Sun Jan 07 22:01:14 2018	sweatcoins	filtered	https://www.nytimes.com/2018/01/07/technology/sweatcoin-fitness-app.html
 Sun Jan 07 22:01:16 2018	sweatcoin	compound comp	https://www.nytimes.com/2018/01/07/technology/sweatcoin-fitness-app.html
@@ -358,13 +358,13 @@ Fri Jan 12 17:01:07 2018	banoffeh	filtered	https://www.nytimes.com/2018/01/12/di
 Fri Jan 12 17:01:12 2018	mafroukeh	filtered	https://www.nytimes.com/2018/01/12/dining/toronto-syrian-food.html
 Fri Jan 12 17:01:14 2018	shakriya	filtered	https://www.nytimes.com/2018/01/12/dining/toronto-syrian-food.html
 Fri Jan 12 18:01:29 2018	recidivating	domain	https://www.nytimes.com/2018/01/12/opinion/books-prison-packages-new-york.html
-Fri Jan 12 18:01:43 2018	cryptotulips	blend	https://www.nytimes.com/2018/01/12/business/blockchain-blockheads-bitcoin-mania.html
+Fri Jan 12 18:01:43 2018	cryptotulips	compound new	https://www.nytimes.com/2018/01/12/business/blockchain-blockheads-bitcoin-mania.html
 Fri Jan 12 19:01:36 2018	troposphering	deriv	https://www.nytimes.com/2018/01/12/theater/review-how-to-be-a-rock-critic-the-hendrix-project.html
 Fri Jan 12 19:01:37 2018	blizzardnoise	filtered	https://www.nytimes.com/2018/01/12/theater/review-how-to-be-a-rock-critic-the-hendrix-project.html
 Sat Jan 13 03:01:01 2018	nonwall	affix	https://www.nytimes.com/2018/01/12/opinion/so-its-one-two-three-strikes-youre-out.html
 Sat Jan 13 07:01:08 2018	bumpfire	filtered	https://www.nytimes.com/2018/01/12/us/las-vegas-attack-gunman-paddock.html?ref=todayspaper
 Sat Jan 13 11:01:13 2018	esiere	filtered	https://www.nytimes.com/2018/01/13/world/africa/female-genital-mutilation-kenya.html
-Sat Jan 13 12:01:15 2018	cryptoart	blend	https://www.nytimes.com/2018/01/13/arts/cryptocurrency-art-market.html
+Sat Jan 13 12:01:15 2018	cryptoart	compound comp	https://www.nytimes.com/2018/01/13/arts/cryptocurrency-art-market.html
 Sat Jan 13 16:01:35 2018	metallosis	domain	https://www.nytimes.com/2018/01/13/opinion/sunday/can-your-hip-replacement-kill-you.html
 Sat Jan 13 19:45:08 2018	womping	deriv	https://www.nytimes.com/2018/01/13/opinion/sunday/peanuts-franklin-charlie-brown.html
 Sun Jan 14 06:05:55 2018	etiolations	infl	https://www.nytimes.com/2018/01/09/books/review/daniel-swift-the-bughouse.html?ref=todayspaper
@@ -373,7 +373,7 @@ Sun Jan 14 09:00:59 2018	frumpers	blend	https://www.nytimes.com/2018/01/14/arts/
 Mon Jan 15 10:01:24 2018	microtechnologies	affix	https://www.nytimes.com/2018/01/15/fashion/watches-besancon-france.html
 Mon Jan 15 17:01:25 2018	whoremistress	compound comp	https://www.nytimes.com/2018/01/15/world/europe/magdalene-laundries-ireland.html
 Tue Jan 16 10:01:03 2018	pushpieces	infl	https://www.nytimes.com/2018/01/16/fashion/watches-ceramic-iwc-schaffhausen.html
-Tue Jan 16 11:01:37 2018	cryptocommunity	blend	https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
+Tue Jan 16 11:01:37 2018	cryptocommunity	compound comp	https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
 Tue Jan 16 11:01:38 2018	cryptomovements	affix	https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
 Tue Jan 16 13:01:11 2018	pullquote	compound comp	https://www.nytimes.com/2018/01/16/business/dealbook/blackrock-fink-social-good.html
 Tue Jan 16 19:01:07 2018	fatostatin	domain	https://www.nytimes.com/2018/01/16/health/fat-diet-prostate-cancer.html
@@ -382,7 +382,7 @@ Wed Jan 17 01:01:15 2018	microsegment	affix	https://www.nytimes.com/2018/01/16/b
 Wed Jan 17 11:01:41 2018	proselytist	domain	https://www.nytimes.com/2018/01/17/books/review/nathaniel-rich-king-zeno.html
 Wed Jan 17 11:01:53 2018	nonbrilliant	affix	https://www.nytimes.com/2018/01/17/books/review/off-the-charts-ann-hulbert.html
 Wed Jan 17 12:01:16 2018	gravitostat	domain	https://www.nytimes.com/2018/01/17/well/move/how-our-bones-might-help-keep-our-weight-stable.html
-Wed Jan 17 13:01:06 2018	cryptoheists	blend	https://www.nytimes.com/2018/01/17/business/dealbook/google-facebook-antitrust.html
+Wed Jan 17 13:01:06 2018	cryptoheists	compound comp	https://www.nytimes.com/2018/01/17/business/dealbook/google-facebook-antitrust.html
 Wed Jan 17 17:01:13 2018	snidbits	blend	https://www.nytimes.com/2018/01/17/theater/mary-kathryn-nagle-native-american-playwright-lawyer.html
 Wed Jan 17 17:01:22 2018	remetabolizing	affix	https://www.nytimes.com/2018/01/17/theater/jerry-springer-the-opera-new-group-john-rando-terrence-mann.html
 Wed Jan 17 18:01:17 2018	sunfaced	deriv	https://www.nytimes.com/2018/01/17/world/europe/moscow-darkness-sunlight.html
@@ -427,7 +427,7 @@ Wed Jan 24 12:00:57 2018	backrolls	infl	https://www.nytimes.com/2018/01/24/magaz
 Wed Jan 24 12:02:17 2018	riparatore	filtered	https://www.nytimes.com/2018/01/24/magazine/what-if-i-dont-want-to-see-the-child-i-gave-up-for-adoption.html
 Wed Jan 24 16:01:24 2018	athcouture	blend	https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html
 Wed Jan 24 17:01:27 2018	divisiness	filtered	https://www.nytimes.com/2018/01/24/opinion/enough-trump-bashing-democrats.html
-Wed Jan 24 18:01:10 2018	cybercoached	blend	https://www.nytimes.com/2018/01/24/world/europe/isis-barcelona-attack.html
+Wed Jan 24 18:01:10 2018	cybercoached	affix	https://www.nytimes.com/2018/01/24/world/europe/isis-barcelona-attack.html
 Wed Jan 24 18:01:27 2018	prepainting	affix	https://www.nytimes.com/2018/01/24/arts/design/what-to-see-in-new-york-art-galleries-this-week.html
 Wed Jan 24 19:01:20 2018	redneckification	affix	https://www.nytimes.com/2018/01/24/books/review-when-they-call-you-terrorist-patrisse-khan-cullors-more-beautiful-terrible-history-jeanne-theoharis.html
 Wed Jan 24 22:01:42 2018	minitennis	affix	https://www.nytimes.com/2018/01/24/sports/tennis/hyeon-chung-australian-open.html
@@ -558,7 +558,7 @@ Sat Feb 17 20:01:33 2018	clicas	filtered	https://www.nytimes.com/2018/02/17/opin
 Sun Feb 18 11:01:34 2018	itsshelter	filtered	https://www.nytimes.com/2018/02/18/nyregion/homelessness-step-by-step.html
 Sun Feb 18 15:01:10 2018	mildronite	domain	https://www.nytimes.com/2018/02/18/sports/olympics/doping-russia-alexander-krushelnytsky.html
 Mon Feb 19 05:01:12 2018	verdigrised	domain	https://www.nytimes.com/2018/02/18/t-magazine/sanatorium-europe-history.html
-Mon Feb 19 11:01:08 2018	vagility	blend	https://www.nytimes.com/2018/02/19/science/migration-animals-west.html
+Mon Feb 19 11:01:08 2018	vagility	domain	https://www.nytimes.com/2018/02/19/science/migration-animals-west.html
 Mon Feb 19 18:01:09 2018	hypercalcemic	domain	https://www.nytimes.com/2018/02/19/health/ovarian-cancer-immunotherapy.html
 Mon Feb 19 18:01:45 2018	bintsuke	filtered	https://www.nytimes.com/2018/02/19/t-magazine/primers-glowing-skin.html
 Mon Feb 19 20:01:35 2018	topogenic	domain	https://www.nytimes.com/2018/02/19/obituaries/gunter-blobel-nobel-laureate-who-found-cell-zip-codes-dies-at-81.html
@@ -627,7 +627,7 @@ Wed Feb 28 18:01:35 2018	ropemaster	compound comp	https://www.nytimes.com/2018/0
 Wed Feb 28 22:01:31 2018	pseudotapestries	affix	https://www.nytimes.com/2018/02/28/style/why-are-rugs-so-expensive.html
 Wed Feb 28 23:01:08 2018	uncharasmatic	filtered	https://www.nytimes.com/2018/02/28/world/europe/italy-election-davide-casaleggio-five-star.html
 Thu Mar 01 02:01:10 2018	thumbiest	deriv	https://www.nytimes.com/2018/02/28/opinion/trump-wall-mexico-judge.html
-Thu Mar 01 02:01:30 2018	cybercoins	blend	https://www.nytimes.com/2018/02/28/business/economy/bitcoin-electricity-productivity.html
+Thu Mar 01 02:01:30 2018	cybercoins	infl	https://www.nytimes.com/2018/02/28/business/economy/bitcoin-electricity-productivity.html
 Thu Mar 01 11:01:20 2018	pensionize	deriv	https://www.nytimes.com/2018/03/01/business/retirement/no-pension-pensionize-savings.html
 Thu Mar 01 11:01:22 2018	pensionizing	filtered	https://www.nytimes.com/2018/03/01/business/retirement/no-pension-pensionize-savings.html
 Thu Mar 01 11:01:29 2018	supertribal	affix	https://www.nytimes.com/2018/03/01/books/review/amy-chua-political-tribes.html
@@ -643,7 +643,7 @@ Fri Mar 02 19:01:12 2018	orizake	filtered	https://www.nytimes.com/2018/03/02/din
 Sun Mar 04 00:01:07 2018	pauropods	domain	https://www.nytimes.com/2018/03/03/opinion/sunday/species-conservation-extinction.html
 Sun Mar 04 00:01:10 2018	priapulids	domain	https://www.nytimes.com/2018/03/03/opinion/sunday/species-conservation-extinction.html
 Sun Mar 04 00:01:12 2018	loriciferans	domain	https://www.nytimes.com/2018/03/03/opinion/sunday/species-conservation-extinction.html
-Sun Mar 04 14:01:10 2018	splitbeard	compound comp	https://www.nytimes.com/2018/03/04/style/greg-grant-preserve-historic-texas-land.html
+Sun Mar 04 14:01:10 2018	splitbeard	domain	https://www.nytimes.com/2018/03/04/style/greg-grant-preserve-historic-texas-land.html
 Mon Mar 05 15:01:30 2018	portryal	filtered	https://www.nytimes.com/2018/03/04/movies/oscars-academy-awards.html?target=comments#commentsContainer
 Mon Mar 05 15:02:36 2018	publicanorum	filtered	https://www.nytimes.com/2018/03/05/books/review/adam-winkler-we-the-corporations.html
 Mon Mar 05 18:01:55 2018	abrystir	filtered	https://www.nytimes.com/2018/03/05/dining/iceland-geyser-geothermal-energy-cooking.html
@@ -671,7 +671,7 @@ Mon Mar 12 10:03:00 2018	kidlessness	deriv	https://www.nytimes.com/2018/03/12/tr
 Mon Mar 12 10:03:08 2018	thromping	innovation	https://www.nytimes.com/2018/03/12/travel/havana-cuba.html
 Mon Mar 12 14:03:10 2018	spettacolarizzazione	filtered	https://www.nytimes.com/2018/03/12/theater/sistine-chapel-ultimate-judgement.html
 Mon Mar 12 16:04:30 2018	hoboning	blend	https://www.nytimes.com/2018/03/12/arts/television/here-and-now-recap-from-sun-up-to-sun-down.html
-Mon Mar 12 18:02:51 2018	bonnetmouths	compound comp	https://www.nytimes.com/2018/03/12/dining/filipino-cooking.html
+Mon Mar 12 18:02:51 2018	bonnetmouths	domain	https://www.nytimes.com/2018/03/12/dining/filipino-cooking.html
 Mon Mar 12 18:02:59 2018	alibangbang	filtered	https://www.nytimes.com/2018/03/12/dining/filipino-cooking.html
 Mon Mar 12 18:03:11 2018	sotanghon	filtered	https://www.nytimes.com/2018/03/12/dining/filipino-cooking.html
 Mon Mar 12 18:03:13 2018	paksiw	filtered	https://www.nytimes.com/2018/03/12/dining/filipino-cooking.html
@@ -682,7 +682,7 @@ Mon Mar 12 23:02:19 2018	countermemo	affix	https://www.nytimes.com/2018/03/12/us
 Tue Mar 13 08:02:03 2018	wattery	archaic	https://www.nytimes.com/2018/03/13/sports/golf/original-rules-1744.html
 Tue Mar 13 10:04:39 2018	drunkalog	blend	https://www.nytimes.com/2018/03/13/magazine/does-recovery-kill-great-writing.html
 Tue Mar 13 10:04:43 2018	passioning	deriv	https://www.nytimes.com/2018/03/13/magazine/does-recovery-kill-great-writing.html
-Tue Mar 13 13:02:30 2018	premortems	blend	https://www.nytimes.com/2018/03/13/opinion/pennsylvania-election-conor-lamb.html
+Tue Mar 13 13:02:30 2018	premortems	affix	https://www.nytimes.com/2018/03/13/opinion/pennsylvania-election-conor-lamb.html
 Tue Mar 13 15:02:16 2018	bunnying	deriv	https://www.nytimes.com/2018/03/13/world/europe/uk-sheffield-trees.html
 Tue Mar 13 15:02:18 2018	geckoing	deriv	https://www.nytimes.com/2018/03/13/world/europe/uk-sheffield-trees.html
 Tue Mar 13 22:03:01 2018	tattyfilarious	innovation	https://www.nytimes.com/2018/03/13/obituaries/ken-dodd-veteran-british-comedian-is-dead-at-90.html
@@ -723,7 +723,7 @@ Wed Mar 21 10:01:58 2018	meteorologese	affix	https://www.nytimes.com/2018/03/21/
 Wed Mar 21 16:04:03 2018	roboadviser	filtered	http://www.nytimes.com/2018/03/02/your-money/why-its-so-hard-to-invest-with-a-social-conscience.html
 Wed Mar 21 17:03:36 2018	weiyuanhui	filtered	https://www.nytimes.com/2018/03/21/world/asia/china-communist-party-xi-jinping.html
 Thu Mar 22 06:02:16 2018	flashcut	compound new	https://www.nytimes.com/2018/03/22/style/watches-robots-automation.html
-Thu Mar 22 06:03:01 2018	mainplate	compound comp	https://www.nytimes.com/2018/03/22/style/watches-kari-voutilainen.html
+Thu Mar 22 06:03:01 2018	mainplate	domain	https://www.nytimes.com/2018/03/22/style/watches-kari-voutilainen.html
 Thu Mar 22 06:03:03 2018	horophiles	domain	https://www.nytimes.com/2018/03/22/style/watches-kari-voutilainen.html
 Thu Mar 22 07:02:03 2018	aquamation	blend	https://www.nytimes.com/2018/03/22/smarter-living/green-funeral-burial-environment.html
 Thu Mar 22 07:02:12 2018	râleur	filtered	https://www.nytimes.com/2018/03/22/opinion/france-optimism-macron.html
@@ -790,7 +790,7 @@ Tue Apr 03 10:02:36 2018	hypercoordination	affix	https://www.nytimes.com/2018/04
 Tue Apr 03 10:04:00 2018	nuttish	affix	https://www.nytimes.com/2018/04/03/magazine/pastry-france-syria-baklava-mille-feuille.html
 Tue Apr 03 10:04:03 2018	d’amande	filtered	https://www.nytimes.com/2018/04/03/magazine/pastry-france-syria-baklava-mille-feuille.html
 Tue Apr 03 17:03:20 2018	woaaaahhhh	lengthening	https://www.nytimes.com/2018/04/03/books/christine-lahti-true-stories-from-an-unreliable-witness.html
-Tue Apr 03 20:03:28 2018	laylights	compound new	https://www.nytimes.com/2018/04/03/arts/design/met-museum-paintings-renovation.html
+Tue Apr 03 20:03:28 2018	laylights	domain	https://www.nytimes.com/2018/04/03/arts/design/met-museum-paintings-renovation.html
 Wed Apr 04 10:03:20 2018	tupye	filtered	https://www.nytimes.com/2018/04/04/magazine/arlee-warriors-montana-basketball-flathead-indian-reservation.html
 Wed Apr 04 10:03:25 2018	syulm	filtered	https://www.nytimes.com/2018/04/04/magazine/arlee-warriors-montana-basketball-flathead-indian-reservation.html
 Wed Apr 04 10:05:14 2018	microattributions	affix	https://www.nytimes.com/2018/04/04/magazine/anne-wojcicki-wants-to-be-healthy-at-100.html
@@ -844,7 +844,7 @@ Fri Apr 13 10:04:49 2018	wooshy	deriv	https://www.nytimes.com/2018/04/13/fashion
 Fri Apr 13 13:02:24 2018	microincidents	affix	https://www.nytimes.com/2018/04/13/movies/lucrecia-martel-zama-argentina.html
 Fri Apr 13 20:02:17 2018	avipoxvirus	domain	https://www.nytimes.com/2018/04/13/science/virosphere-evolution.html
 Fri Apr 13 20:02:54 2018	microbladed	affix	https://www.nytimes.com/2018/04/13/science/eyebrow-evolution-expression.html
-Sat Apr 14 01:01:34 2018	cybercounterattack	compound new	https://www.nytimes.com/2018/04/13/world/middleeast/trump-syria-attack.html
+Sat Apr 14 01:01:34 2018	cybercounterattack	compound comp	https://www.nytimes.com/2018/04/13/world/middleeast/trump-syria-attack.html
 Sat Apr 14 05:01:35 2018	quilombola	filtered	https://www.nytimes.com/2018/04/14/world/americas/brazil-president-candidate-hate.html
 Sat Apr 14 10:01:33 2018	kepercayaan	filtered	https://www.nytimes.com/2018/04/14/world/asia/indonesia-religious-freedom-.html
 Sat Apr 14 10:01:36 2018	kejawen	filtered	https://www.nytimes.com/2018/04/14/world/asia/indonesia-religious-freedom-.html
@@ -860,7 +860,7 @@ Tue Apr 17 18:01:33 2018	headtheater	compound new	https://www.nytimes.com/2018/0
 Tue Apr 17 18:01:38 2018	jeerish	deriv	https://www.nytimes.com/2018/04/17/insider/saudi-arabia-fashion-week.html
 Tue Apr 17 18:01:40 2018	saleeg	filtered	https://www.nytimes.com/2018/04/17/insider/saudi-arabia-fashion-week.html
 Tue Apr 17 22:02:22 2018	sattras	filtered	https://www.nytimes.com/2018/04/17/arts/dance/sattriya-the-dancing-monks-of-assam.html
-Wed Apr 18 05:01:38 2018	cyberskirmishing	blend	https://www.nytimes.com/2018/04/17/world/europe/russia-putin-sanctions-economy.html
+Wed Apr 18 05:01:38 2018	cyberskirmishing	compound comp	https://www.nytimes.com/2018/04/17/world/europe/russia-putin-sanctions-economy.html
 Wed Apr 18 10:02:03 2018	nonbarbed	affix	https://www.nytimes.com/2018/04/18/magazine/dirt-save-earth-carbon-farming-climate-change.html
 Wed Apr 18 10:02:07 2018	pedosphere	domain	https://www.nytimes.com/2018/04/18/magazine/dirt-save-earth-carbon-farming-climate-change.html
 Wed Apr 18 14:02:03 2018	centralparkfishing	filtered	https://www.nytimes.com/2018/04/18/insider/fishing-for-stories-via-instagram.html
@@ -907,14 +907,14 @@ Tue Apr 24 17:02:12 2018	pantryload	compound comp	https://www.nytimes.com/2018/0
 Tue Apr 24 18:03:05 2018	symbiotes	infl	https://www.nytimes.com/2018/04/24/movies/venom-trailer-tom-hardy.html
 Tue Apr 24 23:01:58 2018	unmarvelous	affix	https://www.nytimes.com/2018/04/24/movies/avengers-infinity-war-review.html
 Wed Apr 25 00:01:34 2018	skirtsuit	compound comp	https://www.nytimes.com/2018/04/24/us/politics/trump-macron-bromance.html
-Wed Apr 25 10:02:07 2018	playcallers	compound comp	https://www.nytimes.com/2018/04/25/sports/nfl-draft-saquon-barkley.html
+Wed Apr 25 10:02:07 2018	playcallers	infl	https://www.nytimes.com/2018/04/25/sports/nfl-draft-saquon-barkley.html
 Wed Apr 25 11:01:37 2018	competitionist	deriv	https://www.nytimes.com/2018/04/25/us/politics/don-blankenship-china-west-virginia.html?hp&target=comments#commentsContainer
 Wed Apr 25 19:01:33 2018	tomacco	blend	https://www.nytimes.com/2018/04/25/business/media/smoking-movies-disney-fox.html
 Wed Apr 25 21:02:51 2018	poisonable	affix	https://www.nytimes.com/2018/04/25/arts/television/the-handmaids-tale-recap-season-2-premiere-june-unwomen.html
 Thu Apr 26 10:02:30 2018	megafunk	affix	https://www.nytimes.com/2018/04/26/books/review/kevin-young-brown.html
 Thu Apr 26 15:02:36 2018	salinité	filtered	https://www.nytimes.com/2018/04/26/dining/drinks/wine-school-etna-bianco-sicily.html
 Thu Apr 26 23:02:43 2018	olufe	filtered	https://www.nytimes.com/2018/04/26/arts/design/contemporary-african-art-fair-pioneer-works.html
-Fri Apr 27 04:01:17 2018	followance	blend	https://www.nytimes.com/2018/04/26/arts/television/rupauls-drag-race-season-10-episode-6-recap.html
+Fri Apr 27 04:01:17 2018	followance	affix	https://www.nytimes.com/2018/04/26/arts/television/rupauls-drag-race-season-10-episode-6-recap.html
 Fri Apr 27 04:01:22 2018	proportionizing	deriv	https://www.nytimes.com/2018/04/26/arts/television/rupauls-drag-race-season-10-episode-6-recap.html
 Fri Apr 27 04:01:26 2018	infotainingly	deriv	https://www.nytimes.com/2018/04/26/arts/television/rupauls-drag-race-season-10-episode-6-recap.html
 Fri Apr 27 16:02:16 2018	accusatons	filtered	https://www.nytimes.com/2018/04/27/us/gender-letter-the-culture-is-changing-cosby-is-proof.html
@@ -979,7 +979,7 @@ Wed May 09 23:02:29 2018	subtweetstorm	compound comp	https://www.nytimes.com/201
 Wed May 09 23:02:54 2018	aprovechategui	filtered	https://www.nytimes.com/2018/05/09/world/europe/spain-puigdemont-catalonia.html
 Thu May 10 08:02:41 2018	bigature	blend	https://www.nytimes.com/2018/05/08/style/botanical-miniatures-design.html
 Thu May 10 10:03:39 2018	kardemummaknut	filtered	https://www.nytimes.com/2018/05/10/travel/gothenburg-sweden-what-to-do.html
-Thu May 10 15:02:39 2018	bookmatched	compound comp	https://www.nytimes.com/2018/05/10/realestate/a-new-25-story-tower-on-city-hall-park.html
+Thu May 10 15:02:39 2018	bookmatched	compound new	https://www.nytimes.com/2018/05/10/realestate/a-new-25-story-tower-on-city-hall-park.html
 Thu May 10 15:02:50 2018	noctules	infl	https://www.nytimes.com/2018/05/10/science/parakeets-bats-invasive-species.html
 Thu May 10 15:03:14 2018	silvaners	domain	https://www.nytimes.com/2018/05/10/dining/drinks/sylvaner-wine.html
 Thu May 10 16:02:26 2018	makhwaen	filtered	https://www.nytimes.com/2018/05/10/dining/lamoon-review-elmhurst.html
@@ -1004,7 +1004,7 @@ Mon May 14 10:03:10 2018	moonsaulting	compound new	https://www.nytimes.com/2018/
 Mon May 14 13:02:53 2018	familicides	deriv	https://www.nytimes.com/2018/05/14/world/australia/mass-shooting.html
 Mon May 14 15:02:52 2018	twunks	blend	https://www.nytimes.com/2018/05/14/t-magazine/age-of-the-twink.html
 Mon May 14 15:02:54 2018	twinkiness	deriv	https://www.nytimes.com/2018/05/14/t-magazine/age-of-the-twink.html
-Mon May 14 17:02:31 2018	typefit	compound comp	https://www.nytimes.com/2018/05/14/insider/3-a1-headlines-3-alerts-3-hours-how-metoo-makes-news.html
+Mon May 14 17:02:31 2018	typefit	domain	https://www.nytimes.com/2018/05/14/insider/3-a1-headlines-3-alerts-3-hours-how-metoo-makes-news.html
 Mon May 14 17:02:34 2018	paginator	deriv	https://www.nytimes.com/2018/05/14/insider/3-a1-headlines-3-alerts-3-hours-how-metoo-makes-news.html
 Mon May 14 17:02:36 2018	this	filtered	https://www.nytimes.com/2018/05/14/insider/3-a1-headlines-3-alerts-3-hours-how-metoo-makes-news.html
 Mon May 14 17:02:46 2018	thermocyclers	domain	https://www.nytimes.com/2018/05/14/science/biohackers-gene-editing-virus.html
@@ -1055,7 +1055,7 @@ Sun May 20 12:02:32 2018	cambures	filtered	https://www.nytimes.com/2018/05/20/op
 Sun May 20 23:02:16 2018	neofuturist	affix	https://www.nytimes.com/2018/05/20/obituaries/will-alsop-architectural-provocateur-is-dead-at-70.html
 Mon May 21 03:02:48 2018	greasable	deriv	https://www.nytimes.com/2018/05/20/arts/television/billions-recap-icebreaker.html
 Mon May 21 10:02:17 2018	delicatula	filtered	https://www.nytimes.com/2018/05/21/science/lanternflies-pennsylvania-crops.html
-Mon May 21 10:02:19 2018	lanternfly	compound new	https://www.nytimes.com/2018/05/21/science/lanternflies-pennsylvania-crops.html
+Mon May 21 10:02:19 2018	lanternfly	domain	https://www.nytimes.com/2018/05/21/science/lanternflies-pennsylvania-crops.html
 Mon May 21 10:02:21 2018	lanternflies	filtered	https://www.nytimes.com/2018/05/21/science/lanternflies-pennsylvania-crops.html
 Mon May 21 11:02:32 2018	smellwalks	compound comp	https://www.nytimes.com/2018/05/21/nyregion/new-york-today-smelling-your-way-to-work.html
 Mon May 21 15:02:51 2018	foulies	deriv	https://www.nytimes.com/2018/05/21/dining/what-to-cook-right-now.html
@@ -1158,7 +1158,7 @@ Fri Jun 01 10:02:55 2018	shinrinyoku	filtered	https://www.nytimes.com/2018/06/01
 Fri Jun 01 10:03:50 2018	casimuertos	filtered	https://www.nytimes.com/2018/06/01/books/review/astonishing-color-of-after-emily-xr-pan.html
 Fri Jun 01 10:04:28 2018	eiπ	domain	https://www.nytimes.com/2018/06/01/books/review/helen-dewitt-some-trick.html
 Fri Jun 01 15:02:13 2018	heimische	filtered	https://www.nytimes.com/2018/06/01/obituaries/elaine-markson-literary-agent-for-feminist-authors-dies-at-87.html
-Fri Jun 01 15:02:44 2018	swishbuckling	compound new	https://www.nytimes.com/2018/06/01/arts/gaysploitation-upends-the-stereotypes-that-make-us-wince.html
+Fri Jun 01 15:02:44 2018	swishbuckling	filtered	https://www.nytimes.com/2018/06/01/arts/gaysploitation-upends-the-stereotypes-that-make-us-wince.html
 Fri Jun 01 15:02:50 2018	softfly	filtered	https://www.nytimes.com/2018/06/01/theater/john-doyle-directs-carmen-jones-classic-stage-company.html
 Fri Jun 01 16:03:43 2018	adaptogen	domain	https://www.nytimes.com/2018/06/01/style/what-are-adaptogens.html
 Fri Jun 01 16:03:45 2018	ashwangdha	filtered	https://www.nytimes.com/2018/06/01/style/what-are-adaptogens.html
@@ -1191,7 +1191,7 @@ Fri Jun 08 10:01:54 2018	hamentashens	filtered	https://www.nytimes.com/2018/06/0
 Fri Jun 08 10:02:48 2018	parabalini	filtered	https://www.nytimes.com/2018/06/08/books/review/catherine-nixey-darkening-age.html
 Fri Jun 08 10:03:26 2018	jobbymoons	blend	https://www.nytimes.com/2018/06/08/travel/trips-between-jobs.html
 Fri Jun 08 10:03:30 2018	bizcations	blend	https://www.nytimes.com/2018/06/08/travel/trips-between-jobs.html
-Fri Jun 08 13:01:52 2018	stepsistren	blend	https://www.nytimes.com/2018/06/08/arts/television/rupauls-drag-race-recap.html
+Fri Jun 08 13:01:52 2018	stepsistren	archaic	https://www.nytimes.com/2018/06/08/arts/television/rupauls-drag-race-recap.html
 Fri Jun 08 13:01:54 2018	sabattoirs	filtered	https://www.nytimes.com/2018/06/08/arts/television/rupauls-drag-race-recap.html
 Fri Jun 08 13:02:00 2018	sabattoir	filtered	https://www.nytimes.com/2018/06/08/arts/television/rupauls-drag-race-recap.html
 Fri Jun 08 18:02:28 2018	hexacyanoferrate	domain	https://www.nytimes.com/2018/06/08/world/europe/chernobyl-nuclear-disaster-radiation-milk.html
@@ -1223,7 +1223,7 @@ Wed Jun 13 14:02:12 2018	wypipo	dialect	https://www.nytimes.com/2018/06/13/magaz
 Wed Jun 13 14:02:14 2018	whytppl	dialect	https://www.nytimes.com/2018/06/13/magazine/white-people-are-noticing-something-new-their-own-whiteness.html
 Wed Jun 13 16:01:32 2018	jujjed	dialect	https://www.nytimes.com/2018/06/13/style/jon-bon-jovi-rose.html
 Wed Jun 13 17:02:32 2018	musharati	filtered	https://www.nytimes.com/2018/06/13/world/asia/india-ramadan-prayers.html
-Wed Jun 13 21:01:51 2018	thunderclapping	compound comp	https://www.nytimes.com/2018/06/13/sports/world-cup/russia-putin.html
+Wed Jun 13 21:01:51 2018	thunderclapping	deriv	https://www.nytimes.com/2018/06/13/sports/world-cup/russia-putin.html
 Wed Jun 13 22:01:36 2018	semicolumns	infl	https://www.nytimes.com/2018/06/13/sports/world-cup/world-cup-stadium-russia.html
 Wed Jun 13 22:01:38 2018	podstakannik	filtered	https://www.nytimes.com/2018/06/13/sports/world-cup/world-cup-stadium-russia.html
 Thu Jun 14 00:02:17 2018	smokewaves	compound comp	https://www.nytimes.com/2018/06/13/opinion/wildfire-west-yellowstone.html
@@ -1237,10 +1237,10 @@ Thu Jun 14 19:01:48 2018	vritues	filtered	https://www.nytimes.com/2018/06/14/us/
 Fri Jun 15 10:02:30 2018	laysoccerperson	compound comp	https://www.nytimes.com/2018/06/15/sports/world-cup/kits-uniforms-nigeria.html
 Fri Jun 15 10:02:59 2018	enagua	filtered	https://www.nytimes.com/2018/06/15/fashion/frida-kahlo-museum-london.html
 Fri Jun 15 14:02:15 2018	reservesplays	filtered	https://www.nytimes.com/2018/06/15/business/dealbook/fed-interest-rates.html
-Fri Jun 15 14:02:23 2018	userlabel	compound comp	https://www.nytimes.com/2018/06/15/technology/personaltech/gmail-archive-delete.html
+Fri Jun 15 14:02:23 2018	userlabel	filtered	https://www.nytimes.com/2018/06/15/technology/personaltech/gmail-archive-delete.html
 Fri Jun 15 16:02:19 2018	tweetism	affix	https://www.nytimes.com/2018/06/15/opinion/sunday/trump-china-tariffs-trade-farmers.html
 Fri Jun 15 16:02:28 2018	chakral	filtered	https://www.nytimes.com/2018/06/15/opinion/sunday/astrology-crystal-tarot-healing.html
-Fri Jun 15 18:02:02 2018	downblousing	blend	https://www.nytimes.com/2018/06/15/world/europe/uk-upskirting-crime-parliament.html
+Fri Jun 15 18:02:02 2018	downblousing	compound new	https://www.nytimes.com/2018/06/15/world/europe/uk-upskirting-crime-parliament.html
 Fri Jun 15 23:01:58 2018	dripware	affix libfix	https://www.nytimes.com/2018/06/15/t-magazine/karu-rugs-cecilia-vicuna-art-editors-picks.html
 Sat Jun 16 01:01:45 2018	jillionth	deriv	https://www.nytimes.com/2018/06/15/obituaries/william-reese-leading-seller-of-rare-books-is-dead-at-62.html
 Sat Jun 16 02:01:54 2018	dilmenna	filtered	https://www.nytimes.com/2018/06/15/world/canada/trump-trudeau-canada-letter.html
@@ -1389,7 +1389,7 @@ Fri Jul 13 10:02:22 2018	glossopoeia	domain	https://www.nytimes.com/2018/07/13/b
 Fri Jul 13 10:02:44 2018	streeeeetched	lengthening	https://www.nytimes.com/2018/07/13/books/review/summer-childrens-picture-books-2018.html
 Fri Jul 13 10:02:51 2018	ineerily	filtered	https://www.nytimes.com/2018/07/13/books/review/dag-solstad-armand-v-t-singer.html
 Fri Jul 13 15:02:02 2018	cygniform	domain	https://www.nytimes.com/2018/07/13/books/review/caroline-weber-prousts-duchess-belle-epoque.html
-Fri Jul 13 23:02:02 2018	cyberinterference	blend	https://www.nytimes.com/2018/07/13/us/politics/dan-coats-intelligence-russia-cyber-warning.html
+Fri Jul 13 23:02:02 2018	cyberinterference	compound comp	https://www.nytimes.com/2018/07/13/us/politics/dan-coats-intelligence-russia-cyber-warning.html
 Sat Jul 14 10:02:01 2018	sextech	compound comp	https://www.nytimes.com/2018/07/14/style/sex-education.html
 Sat Jul 14 11:01:32 2018	brotelier	blend	https://www.nytimes.com/2018/07/14/business/the-education-of-a-brotelier.html
 Sat Jul 14 19:01:58 2018	zoekboeks	filtered	https://www.nytimes.com/2018/07/14/opinion/sunday/dutch-childrens-books.html
@@ -1400,8 +1400,8 @@ Sat Jul 14 19:02:08 2018	wimmelbook	filtered	https://www.nytimes.com/2018/07/14/
 Mon Jul 16 11:02:03 2018	seriousaly	filtered	https://www.nytimes.com/2018/07/16/opinion/climate-change-parenting.html
 Mon Jul 16 15:03:02 2018	cyberbots	compound new	https://www.nytimes.com/2018/07/16/opinion/sunday/high-tech-warfare.html
 Mon Jul 16 15:03:08 2018	stickbaits	compound comp	https://www.nytimes.com/2018/07/16/dining/endless-summer.html
-Mon Jul 16 19:01:40 2018	cyberhit	blend	https://www.nytimes.com/2018/07/16/opinion/trump-and-putin-vs-america.html
-Mon Jul 16 19:01:43 2018	cyberspooks	blend	https://www.nytimes.com/2018/07/16/opinion/trump-and-putin-vs-america.html
+Mon Jul 16 19:01:40 2018	cyberhit	compound comp	https://www.nytimes.com/2018/07/16/opinion/trump-and-putin-vs-america.html
+Mon Jul 16 19:01:43 2018	cyberspooks	compound comp	https://www.nytimes.com/2018/07/16/opinion/trump-and-putin-vs-america.html
 Mon Jul 16 22:01:27 2018	brosephs	blend	https://www.nytimes.com/2018/07/16/arts/three-shows-to-watch-this-week.html
 Tue Jul 17 10:02:27 2018	reptiloid	affix	https://www.nytimes.com/2018/07/17/magazine/what-can-odd-interesting-medical-case-studies-teach-us.html
 Tue Jul 17 10:02:32 2018	nomothetic	domain	https://www.nytimes.com/2018/07/17/magazine/what-can-odd-interesting-medical-case-studies-teach-us.html
@@ -1418,14 +1418,14 @@ Wed Jul 18 19:01:39 2018	myanmarensis	domain	https://www.nytimes.com/2018/07/18/
 Thu Jul 19 00:01:49 2018	downrank	affix	http://www.nytimes.com/2018/07/18/technology/facebook-to-remove-misinformation-that-leads-to-violence.html
 Thu Jul 19 10:02:16 2018	automatovelociraptor	blend	https://www.nytimes.com/2018/07/19/books/review/karin-slaughter-by-the-book.html
 Thu Jul 19 11:02:03 2018	alwaysconnected	filtered	https://www.nytimes.com/2018/07/19/insider/smarter-living-editor-productivity.html
-Thu Jul 19 12:01:53 2018	tanglegrass	compound comp	https://www.nytimes.com/2018/07/19/magazine/the-water-wars-of-arizona.html
+Thu Jul 19 12:01:53 2018	tanglegrass	domain	https://www.nytimes.com/2018/07/19/magazine/the-water-wars-of-arizona.html
 Thu Jul 19 13:01:42 2018	walkbalks	filtered	https://www.nytimes.com/2018/07/19/opinion/trump-putin-russia-summit.html
 Thu Jul 19 13:01:44 2018	bothersiderism	filtered	https://www.nytimes.com/2018/07/19/opinion/trump-putin-russia-summit.html
 Thu Jul 19 16:01:50 2018	whatboutism	filtered	https://www.nytimes.com/2018/07/19/opinion/one-cheer-for-whataboutism.html
 Thu Jul 19 16:01:53 2018	whataboutists	deriv	https://www.nytimes.com/2018/07/19/opinion/one-cheer-for-whataboutism.html
 Thu Jul 19 17:02:33 2018	kalitsounia	filtered	https://www.nytimes.com/2018/07/19/dining/greek-food-australia-melbourne.html
 Thu Jul 19 19:01:40 2018	destabilase	filtered	https://www.nytimes.com/2018/07/19/science/leeches-blood-anticoagulants.html
-Fri Jul 20 03:01:45 2018	cyberdigital	blend	https://www.nytimes.com/2018/07/19/us/politics/rosenstein-justice-russia.html
+Fri Jul 20 03:01:45 2018	cyberdigital	domain	https://www.nytimes.com/2018/07/19/us/politics/rosenstein-justice-russia.html
 Sat Jul 21 03:02:02 2018	stacktician	blend	http://www.nytimes.com/2018/07/20/crosswords/daily-puzzle-2018-07-21.html
 Sat Jul 21 19:01:49 2018	netsela	filtered	https://www.nytimes.com/2018/07/21/opinion/sunday/how-to-make-a-life-from-scratch.html
 Mon Jul 23 10:02:21 2018	microfaunal	domain	https://www.nytimes.com/2018/07/23/science/gorongosa-animals-environment.html
@@ -1445,7 +1445,7 @@ Thu Jul 26 14:01:52 2018	diplodocoid	domain	https://www.nytimes.com/2018/07/26/s
 Thu Jul 26 14:01:55 2018	diplodocoids	filtered	https://www.nytimes.com/2018/07/26/science/dinosaur-discovery-china-amazing-dragon.html
 Thu Jul 26 14:01:57 2018	neosauropods	domain	https://www.nytimes.com/2018/07/26/science/dinosaur-discovery-china-amazing-dragon.html
 Thu Jul 26 15:01:30 2018	telefraud	affix	https://www.nytimes.com/2018/07/26/business/how-to-report-phone-scams-nyt.html
-Thu Jul 26 16:01:34 2018	cybergiggle	blend	https://www.nytimes.com/2018/07/26/arts/music/santigold-i-dont-want-the-gold-fire-sessions-review.html
+Thu Jul 26 16:01:34 2018	cybergiggle	compound comp	https://www.nytimes.com/2018/07/26/arts/music/santigold-i-dont-want-the-gold-fire-sessions-review.html
 Thu Jul 26 17:01:48 2018	misdemeanorland	compound comp	https://www.nytimes.com/2018/07/26/nyregion/social-control-elements-of-new-yorks-criminal-justice-system.html
 Thu Jul 26 17:01:55 2018	samuraiesque	affix	https://www.nytimes.com/2018/07/26/style/horse-girls-breyerfest.html
 Thu Jul 26 20:01:34 2018	immunoserology	domain	https://www.nytimes.com/2018/07/26/obituaries/dr-kimishige-ishizaka-who-found-allergy-link-dies-at-92.html
@@ -1470,7 +1470,7 @@ Tue Jul 31 10:01:50 2018	frackpads	compound comp	https://www.nytimes.com/2018/07
 Tue Jul 31 11:01:54 2018	postcoal	affix	https://www.nytimes.com/2018/07/31/opinion/business-investment-localism.html
 Tue Jul 31 18:01:29 2018	sharknappers	affix	https://www.nytimes.com/2018/07/31/us/stolen-shark-aquarium-san-antonio.html
 Thu May 31 10:03:18 2018	is	filtered	https://www.nytimes.com/2018/07/31/opinion/trump-reagan-trade-tariffs-china.html
-Wed Aug 01 11:01:49 2018	cyberinvasion	compound new	https://www.nytimes.com/2018/08/01/opinion/editorials/russia-election-meddling-trump-putin.html
+Wed Aug 01 11:01:49 2018	cyberinvasion	compound comp	https://www.nytimes.com/2018/08/01/opinion/editorials/russia-election-meddling-trump-putin.html
 Wed Aug 01 11:01:51 2018	cuddlefest	affix	https://www.nytimes.com/2018/08/01/opinion/editorials/russia-election-meddling-trump-putin.html
 Wed Aug 01 13:01:21 2018	deutschrock	filtered	https://www.nytimes.com/2018/08/01/arts/music/freiwild-germany.html
 Wed Aug 01 15:01:24 2018	perfectoid	affix	https://www.nytimes.com/2018/08/01/science/fields-medals-mathematics.html
@@ -1537,7 +1537,7 @@ Fri Aug 17 10:02:04 2018	delivereros	filtered	https://www.nytimes.com/2018/08/17
 Fri Aug 17 17:02:19 2018	childrinx	variant	https://www.nytimes.com/2018/08/17/books/review/maes-first-day-of-school-kate-berube.html
 Fri Aug 17 17:02:21 2018	skrool	variant	https://www.nytimes.com/2018/08/17/books/review/maes-first-day-of-school-kate-berube.html
 Fri Aug 17 20:02:00 2018	waltzable	affix	https://www.nytimes.com/2018/08/17/arts/music/aretha-franklin-opera-youtube.html
-Sat Aug 18 03:02:09 2018	punlicious	blend	http://www.nytimes.com/2018/08/17/crosswords/daily-puzzle-2018-08-18.html
+Sat Aug 18 03:02:09 2018	punlicious	affix libfix	http://www.nytimes.com/2018/08/17/crosswords/daily-puzzle-2018-08-18.html
 Sat Aug 18 18:01:51 2018	bandeirilhas	filtered	https://www.nytimes.com/2018/08/15/lens/california-bullfight-portuguese-americans.html
 Sat Aug 18 23:02:04 2018	nonuple	domain	http://www.nytimes.com/2018/08/18/crosswords/daily-puzzle-2018-08-19.html
 Mon Aug 20 10:01:41 2018	khatchgars	filtered	https://www.nytimes.com/2018/08/20/travel/armenia-peter-balakian.html
@@ -1569,7 +1569,7 @@ Fri Aug 24 21:01:47 2018	microinfluencers	affix	https://www.nytimes.com/2018/08/
 Sat Aug 25 03:01:30 2018	legumophiles	affix	http://www.nytimes.com/2018/08/24/crosswords/daily-puzzle-2018-08-25.html
 Sat Aug 25 03:01:32 2018	consonantery	deriv	http://www.nytimes.com/2018/08/24/crosswords/daily-puzzle-2018-08-25.html
 Sun Aug 26 07:01:11 2018	levidrome	domain	https://www.nytimes.com/2018/08/25/pageoneplus/corrections-august-26-2018.html
-Mon Aug 27 07:01:08 2018	cigalike	blend	https://www.nytimes.com/2018/08/27/science/juul-vaping-teen-marketing.html
+Mon Aug 27 07:01:08 2018	cigalike	affix	https://www.nytimes.com/2018/08/27/science/juul-vaping-teen-marketing.html
 Mon Aug 27 10:01:33 2018	mukbang	filtered	https://www.nytimes.com/2018/08/27/arts/unboxing-videos-consumerism.html
 Mon Aug 27 10:01:38 2018	looksmaxing	compound new	https://www.nytimes.com/2018/08/27/arts/male-fitness-body-building.html
 Mon Aug 27 15:01:17 2018	estrodial	domain	https://www.nytimes.com/2018/08/27/business/women-fertility-apps-pregnancy.html
@@ -1620,7 +1620,7 @@ Thu Sep 06 13:03:59 2018	ciyaal	filtered	https://www.nytimes.com/2018/09/06/styl
 Thu Sep 06 17:05:11 2018	sambousek	filtered	https://www.nytimes.com/2018/09/06/nyregion/mansoura-bakery.html
 Fri Sep 07 10:06:26 2018	hhhhwwhy	lengthening	https://www.nytimes.com/2018/09/07/well/family/in-math-cram-sessions-solving-for-why.html
 Fri Sep 07 10:06:34 2018	tartarugari	filtered	https://www.nytimes.com/2018/09/07/arts/gallery-tortoiseshell-art-naples.html
-Fri Sep 07 10:08:01 2018	preinvented	blend	https://www.nytimes.com/2018/09/07/magazine/the-rage-and-tenderness-of-david-wojnarowiczs-art.html
+Fri Sep 07 10:08:01 2018	preinvented	affix	https://www.nytimes.com/2018/09/07/magazine/the-rage-and-tenderness-of-david-wojnarowiczs-art.html
 Fri Sep 07 18:07:08 2018	suzumebachi	filtered	https://www.nytimes.com/2018/09/07/t-magazine/eating-bugs-food-restaurant.html
 Sat Sep 08 18:04:46 2018	taselisib	filtered	https://www.nytimes.com/2018/09/08/health/jose-baselga-cancer-memorial-sloan-kettering.html
 Mon Sep 10 15:06:44 2018	happymaking	compound comp	https://www.nytimes.com/2018/09/10/dining/what-to-cook-right-now-cooking.html
@@ -1682,7 +1682,7 @@ Fri Sep 21 14:58:00 2018	ultraprominent	affix	https://www.nytimes.com/2018/09/21
 Fri Sep 21 16:58:02 2018	outsacking	affix	https://www.nytimes.com/2018/09/21/sports/football/giants-offensive-line.html
 Fri Sep 21 17:58:19 2018	ngoum	filtered	https://www.nytimes.com/2018/09/21/dining/nyum-bai-cambodian-oakland.html
 Fri Sep 21 20:58:17 2018	lifewithmelis	filtered	https://www.nytimes.com/2018/09/21/sports/addison-russell-cubs-domestic-violence.html
-Sat Sep 22 20:57:54 2018	econblogging	compound new	http://www.nytimes.com/2018/09/22/opinion/steeper-versus-deeper-wonkish.html
+Sat Sep 22 20:57:54 2018	econblogging	blend	http://www.nytimes.com/2018/09/22/opinion/steeper-versus-deeper-wonkish.html
 Sun Sep 23 21:58:00 2018	nonredacted	affix	https://www.nytimes.com/2018/09/23/opinion/trump-lies-white-house-dishonesty.html
 Mon Sep 24 18:58:10 2018	vicchoqueña	filtered	https://www.nytimes.com/2018/09/24/dining/drinks/bolivia-wine.html
 Mon Sep 24 19:57:51 2018	hooficuffs	blend	http://www.nytimes.com/2018/09/24/opinion/what-happens-when-you-give-lsd-to-an-elephant.html
@@ -1745,14 +1745,14 @@ Mon Oct 08 17:57:44 2018	rhynchocephalians	domain	https://www.nytimes.com/2018/1
 Mon Oct 08 17:57:49 2018	lepidosaur	domain	https://www.nytimes.com/2018/10/08/science/lizards-snakes-fossils-squamates.html
 Mon Oct 08 17:57:52 2018	gastralia	domain	https://www.nytimes.com/2018/10/08/science/lizards-snakes-fossils-squamates.html
 Tue Oct 09 09:58:17 2018	breastauraunts	blend	https://www.nytimes.com/2018/10/09/magazine/millennials-power-generation.html
-Wed Oct 10 09:58:26 2018	betologists	blend	https://www.nytimes.com/2018/10/10/travel/horses-lexington-kentucky.html
+Wed Oct 10 09:58:26 2018	betologists	affix	https://www.nytimes.com/2018/10/10/travel/horses-lexington-kentucky.html
 Wed Oct 10 14:57:41 2018	campingest	deriv	https://www.nytimes.com/2018/10/10/arts/television/lena-dunham-jenni-konner-camping-hbo.html
 Wed Oct 10 15:57:31 2018	industryhave	filtered	http://www.nytimes.com/2018/10/10/health/cvs-aetna-merger.html
 Wed Oct 10 16:57:40 2018	bloodfruit	compound comp	https://www.nytimes.com/2018/10/10/arts/music/ambrose-akinmusire-origami-harvest-review.html
 Wed Oct 10 16:57:48 2018	skangers	filtered	https://www.nytimes.com/2018/10/10/books/review/tana-french-witch-elm.html
 Wed Oct 10 16:57:51 2018	skanger	dialect	https://www.nytimes.com/2018/10/10/books/review/tana-french-witch-elm.html
-Wed Oct 10 17:57:44 2018	gingergrass	compound new	https://www.nytimes.com/2018/10/10/t-magazine/yael-alkalay-red-flower-holistic-beauty.html
-Wed Oct 10 18:57:32 2018	cyberdefenders	blend	https://www.nytimes.com/2018/10/10/us/politics/hackers-pentagon-weapons-systems.html
+Wed Oct 10 17:57:44 2018	gingergrass	domain	https://www.nytimes.com/2018/10/10/t-magazine/yael-alkalay-red-flower-holistic-beauty.html
+Wed Oct 10 18:57:32 2018	cyberdefenders	compound comp	https://www.nytimes.com/2018/10/10/us/politics/hackers-pentagon-weapons-systems.html
 Wed Oct 10 21:57:35 2018	occasiotarian	blend	https://www.nytimes.com/2018/10/10/nyregion/blessing-of-the-animals-like-noahs-ark.html
 Thu Oct 11 09:58:10 2018	kulouri	filtered	https://www.nytimes.com/2018/10/11/travel/what-to-do-in-athens.html
 Thu Oct 11 18:57:37 2018	eveningcondemning	filtered	https://www.nytimes.com/2018/10/11/us/politics/georgia-voter-registration-kemp-abrams.html
@@ -1767,7 +1767,7 @@ Sun Oct 14 04:57:30 2018	didyoujustseethat	filtered	https://www.nytimes.com/2018
 Mon Oct 15 18:57:32 2018	fibropapillomatosis	domain	https://www.nytimes.com/2018/10/15/science/sea-turtles-endangered-fishing.html
 Mon Oct 15 18:57:38 2018	superinternationalism	affix	https://www.nytimes.com/2018/10/15/business/sears-history-bankruptcy.html
 Tue Oct 16 14:57:32 2018	dunku	filtered	https://www.nytimes.com/2018/10/16/sports/nba-japan.html
-Tue Oct 16 14:57:34 2018	unspo	blend	https://www.nytimes.com/2018/10/16/sports/nba-japan.html
+Tue Oct 16 14:57:34 2018	unspo	variant	https://www.nytimes.com/2018/10/16/sports/nba-japan.html
 Tue Oct 16 19:57:46 2018	mineraline	deriv	https://www.nytimes.com/2018/10/16/books/review/poison-squad-deborah-blum.html
 Tue Oct 16 23:57:39 2018	paleoproteomics	domain	https://www.nytimes.com/2018/10/16/science/rats-cities-meat.html
 Wed Oct 17 09:57:45 2018	microprogression	affix	https://www.nytimes.com/2018/10/17/magazine/struggling-to-bring-the-blue-wave-to-deep-red-alabama.html
@@ -1776,7 +1776,7 @@ Wed Oct 17 09:58:05 2018	sextannual	affix	https://www.nytimes.com/2018/10/17/sty
 Wed Oct 17 09:58:30 2018	badhnati	filtered	https://www.nytimes.com/2018/10/17/magazine/letter-of-recommendation-bandannas.html
 Wed Oct 17 09:58:39 2018	mazegoers	compound comp	https://www.nytimes.com/2018/10/17/magazine/how-to-navigate-a-maze.html
 Wed Oct 17 12:57:26 2018	payconsumers	filtered	https://www.nytimes.com/2018/10/17/business/china-vaccine-fine.html
-Wed Oct 17 19:57:43 2018	tubelip	compound comp	https://www.nytimes.com/2018/10/17/science/coral-reef-biodiversity.html
+Wed Oct 17 19:57:43 2018	tubelip	domain	https://www.nytimes.com/2018/10/17/science/coral-reef-biodiversity.html
 Thu Oct 18 04:57:27 2018	desweat	deriv	https://www.nytimes.com/2018/10/18/fashion/vaquera-designers.html
 Thu Oct 18 04:57:33 2018	semiwedge	affix	https://www.nytimes.com/2018/10/18/fashion/peak-sneaker-fashion.html
 Thu Oct 18 09:57:41 2018	wordmills	compound new	https://www.nytimes.com/2018/10/18/technology/ai-is-beginning-to-assist-novelists.html
@@ -1792,7 +1792,7 @@ Thu Oct 18 17:57:39 2018	eggcessories	blend	https://www.nytimes.com/2018/10/18/t
 Thu Oct 18 19:57:27 2018	gnamakoudji	filtered	https://www.nytimes.com/2018/10/18/dining/paradis-des-gouts-review-brooklyn.html
 Thu Oct 18 21:57:57 2018	hostswith	filtered	https://www.nytimes.com/2018/10/18/arts/comedy-in-nyc-this-week.html
 Fri Oct 19 08:57:31 2018	durchrauscht	filtered	https://www.nytimes.com/2018/10/19/arts/music/brahms-92y-ohlsson-mark-morris.html
-Fri Oct 19 09:57:50 2018	fuselabs	compound new	https://www.nytimes.com/2018/10/19/business/five-artificial-intelligence-insiders-in-their-own-words.html
+Fri Oct 19 09:57:50 2018	fuselabs	filtered	https://www.nytimes.com/2018/10/19/business/five-artificial-intelligence-insiders-in-their-own-words.html
 Fri Oct 19 09:58:11 2018	rasburicase	filtered	https://www.nytimes.com/2018/10/19/well/live/are-some-people-more-sensitive-to-drug-side-effects.html
 Fri Oct 19 09:58:40 2018	nonexpedient	affix	https://www.nytimes.com/2018/10/19/magazine/readers-respond-to-the-10-72018-issue.html
 Fri Oct 19 09:58:45 2018	ribolina	domain	https://www.nytimes.com/2018/10/19/travel/chicago-restaurant-pst.html
@@ -1804,7 +1804,7 @@ Sat Oct 20 10:57:23 2018	pleenk	onomatopoeia	http://www.nytimes.com/2018/10/20/s
 Sat Oct 20 10:57:25 2018	trliiiiiiing	onomatopoeia	http://www.nytimes.com/2018/10/20/style/real-housewives-music.html
 Sat Oct 20 18:57:35 2018	qiaq	filtered	https://www.nytimes.com/2018/10/20/opinion/sunday/climate-change-alaska-seals.html
 Sat Oct 20 22:57:33 2018	snarcasm	blend	http://www.nytimes.com/2018/10/20/crosswords/daily-puzzle-2018-10-21.html
-Mon Oct 22 17:57:22 2018	cybermanipulation	blend	https://www.nytimes.com/2018/10/22/world/europe/cold-war-trump-russia-china.html
+Mon Oct 22 17:57:22 2018	cybermanipulation	compound comp	https://www.nytimes.com/2018/10/22/world/europe/cold-war-trump-russia-china.html
 Mon Oct 22 20:57:19 2018	manigroup	filtered	http://www.nytimes.com/2018/10/22/opinion/protest-music-readers.html
 Mon Oct 22 23:57:21 2018	mustabidu	filtered	http://www.nytimes.com/2018/10/22/opinion/khashoggi-mbs-arab-democracy.html
 Tue Oct 23 01:57:23 2018	femmey	deriv	https://www.nytimes.com/2018/10/22/theater/plot-points-in-our-sexual-development-review.html
@@ -1817,7 +1817,7 @@ Tue Oct 23 19:57:44 2018	maaaaybe	lengthening	https://www.nytimes.com/2018/10/23
 Wed Oct 24 01:57:24 2018	yaaargh	onomatopoeia	https://www.nytimes.com/2018/10/23/theater/india-pale-ale-review-jaclyn-backhaus.html
 Wed Oct 24 09:57:22 2018	megajackpot	affix	http://www.nytimes.com/2018/10/24/briefing/sandra-day-oconnor-world-series-mega-millions.html
 Wed Oct 24 10:57:25 2018	antimisogynistic	affix	http://www.nytimes.com/2018/10/24/opinion/men-sexism-me-too.html
-Wed Oct 24 12:57:23 2018	gablefront	compound comp	https://www.nytimes.com/2018/10/24/books/trans-lit-transgender-novels.html
+Wed Oct 24 12:57:23 2018	gablefront	domain	https://www.nytimes.com/2018/10/24/books/trans-lit-transgender-novels.html
 Wed Oct 24 14:57:23 2018	nonshunted	affix	https://www.nytimes.com/2018/10/24/world/europe/uk-spinal-cord-babies-surgery.html
 Wed Oct 24 15:57:27 2018	raillike	affix	https://www.nytimes.com/2018/10/24/arts/design/show-us-your-wall-hilary-sample-michael-meredith-architects.html
 Wed Oct 24 17:57:27 2018	fanthropologist	blend	https://www.nytimes.com/2018/10/24/arts/internetting-mailbag-drag-cats.html
@@ -1879,7 +1879,7 @@ Sat Nov 03 14:57:28 2018	whomster	deriv	http://www.nytimes.com/2018/11/03/magazi
 Sat Nov 03 14:57:29 2018	whomst	dialect	http://www.nytimes.com/2018/11/03/magazine/white-nationalism-far-right-extermism.html
 Sat Nov 03 14:57:31 2018	sonnerad	filtered	http://www.nytimes.com/2018/11/03/magazine/white-nationalism-far-right-extermism.html
 Sat Nov 03 14:57:33 2018	sonnerads	filtered	http://www.nytimes.com/2018/11/03/magazine/white-nationalism-far-right-extermism.html
-Sun Nov 04 08:57:37 2018	cyberfighters	blend	https://www.nytimes.com/2018/11/04/world/middleeast/mckinsey-bcg-booz-allen-saudi-khashoggi.html
+Sun Nov 04 08:57:37 2018	cyberfighters	compound comp	https://www.nytimes.com/2018/11/04/world/middleeast/mckinsey-bcg-booz-allen-saudi-khashoggi.html
 Sun Nov 04 16:57:32 2018	lobsterish	deriv	https://www.nytimes.com/2018/11/04/dining/what-to-cook-this-week.html
 Mon Nov 05 08:57:18 2018	moraingy	filtered	https://www.nytimes.com/2018/11/05/world/africa/madagascar-moraingy.html
 Mon Nov 05 08:57:20 2018	fagnorolahy	filtered	https://www.nytimes.com/2018/11/05/world/africa/madagascar-moraingy.html
@@ -1895,9 +1895,9 @@ Tue Nov 06 07:57:26 2018	inbtellgience	filtered	http://www.nytimes.com/2018/11/0
 Tue Nov 06 10:58:06 2018	pikopiko	filtered	https://www.nytimes.com/2018/11/06/travel/52-places-traveler-new-zealand-fiji.html
 Tue Nov 06 21:57:32 2018	bizdev	domain	https://www.nytimes.com/2018/11/06/books/review/room-away-from-the-wolves-nova-ren-suma.html
 Tue Nov 06 22:57:35 2018	faccccccccts	lengthening	https://www.nytimes.com/2018/11/06/arts/music/hip-hop-cardi-b-nicki-minaj.html
-Wed Nov 07 10:57:40 2018	chantway	compound comp	http://www.nytimes.com/2018/11/07/magazine/placebo-effect-medicine.html
+Wed Nov 07 10:57:40 2018	chantway	domain	http://www.nytimes.com/2018/11/07/magazine/placebo-effect-medicine.html
 Wed Nov 07 10:57:41 2018	placebome	deriv	http://www.nytimes.com/2018/11/07/magazine/placebo-effect-medicine.html
-Wed Nov 07 16:57:38 2018	cyberfield	blend	https://www.nytimes.com/2018/11/07/business/the-mad-dash-to-find-a-cybersecurity-force.html
+Wed Nov 07 16:57:38 2018	cyberfield	compound comp	https://www.nytimes.com/2018/11/07/business/the-mad-dash-to-find-a-cybersecurity-force.html
 Wed Nov 07 19:57:30 2018	sfinktah	dialect	https://www.nytimes.com/2018/11/07/world/australia/grand-theft-auto-cheat-mods-melbourne.html
 Thu Nov 08 10:58:02 2018	sarmalute	filtered	https://www.nytimes.com/2018/11/08/travel/what-to-do-in-bucharest.html
 Thu Nov 08 10:58:03 2018	mamaliguta	filtered	https://www.nytimes.com/2018/11/08/travel/what-to-do-in-bucharest.html
@@ -1915,7 +1915,7 @@ Fri Nov 09 21:57:47 2018	bildogsromans	blend	https://www.nytimes.com/2018/11/09/
 Sat Nov 10 10:57:40 2018	jetiquette	blend	http://www.nytimes.com/2018/11/10/style/the-canadian-kardashians.html
 Sat Nov 10 11:57:22 2018	pawrent	blend	https://www.nytimes.com/2018/11/10/style/dog-hiking-in-the-country-new-york.html
 Sat Nov 10 15:57:24 2018	ethnonavigation	compound new	https://www.nytimes.com/2018/11/10/fashion/weddings/an-impossible-dream-come-true.html
-Sat Nov 10 19:57:31 2018	carwashathons	blend	https://www.nytimes.com/2018/11/10/opinion/sunday/american-germany-public-school-funding.html
+Sat Nov 10 19:57:31 2018	carwashathons	affix libfix	https://www.nytimes.com/2018/11/10/opinion/sunday/american-germany-public-school-funding.html
 Sat Nov 10 19:57:35 2018	ebunuebunu	filtered	https://www.nytimes.com/2018/11/10/opinion/sunday/slow-cooking-history.html
 Sat Nov 10 19:57:37 2018	nkatenkontobenkwan	filtered	https://www.nytimes.com/2018/11/10/opinion/sunday/slow-cooking-history.html
 Sat Nov 10 21:57:19 2018	midescape	affix	http://www.nytimes.com/2018/11/10/us/california-wildfires-paradise-malibu.html
@@ -2002,10 +2002,10 @@ Fri Nov 23 10:57:21 2018	billionaihs	dialect	http://www.nytimes.com/2018/11/23/u
 Fri Nov 23 10:57:43 2018	kitbashing	compound comp	http://www.nytimes.com/2018/11/23/style/bootleg-toys-action-figures.html
 Fri Nov 23 10:57:44 2018	pseudomerchandising	affix	http://www.nytimes.com/2018/11/23/style/bootleg-toys-action-figures.html
 Fri Nov 23 12:57:29 2018	spadices	infl	https://www.nytimes.com/2018/11/23/t-magazine/robert-mappelthorpe-michael-cunningham-elif-batuman-hilton-als.html
-Fri Nov 23 14:57:22 2018	strawcraft	compound comp	https://www.nytimes.com/2018/11/23/world/americas/reggae-music-jamaica-world-heritage-list.html
+Fri Nov 23 14:57:22 2018	strawcraft	affix	https://www.nytimes.com/2018/11/23/world/americas/reggae-music-jamaica-world-heritage-list.html
 Fri Nov 23 18:57:50 2018	schlockola	phonaestheme	https://www.nytimes.com/2018/11/23/arts/television/best-tv-television.html
 Fri Nov 23 20:57:38 2018	superempath	affix	https://www.nytimes.com/2018/11/23/opinion/sunday/sheryl-sandberg-facebook-russia.html
-Sat Nov 24 19:57:35 2018	hellspring	blend	https://www.nytimes.com/2018/11/24/opinion/sunday/gig-economy-self-promotion-anxiety.html
+Sat Nov 24 19:57:35 2018	hellspring	compound new	https://www.nytimes.com/2018/11/24/opinion/sunday/gig-economy-self-promotion-anxiety.html
 Sat Nov 24 19:57:37 2018	pleeeeeeeeeeaassssee	lengthening	https://www.nytimes.com/2018/11/24/opinion/sunday/gig-economy-self-promotion-anxiety.html
 Sun Nov 25 21:57:29 2018	weichafe	filtered	https://www.nytimes.com/2018/11/25/world/americas/indigenous-killing-chile-land.html
 Mon Nov 26 10:57:31 2018	chashushli	filtered	https://www.nytimes.com/2018/11/26/travel/ski-georgia-caucasus-mountains.html
@@ -2033,7 +2033,7 @@ Thu Nov 29 10:58:19 2018	halfripe	compound comp	http://www.nytimes.com/2018/11/2
 Thu Nov 29 15:57:11 2018	paranoidman	filtered	http://www.nytimes.com/2018/11/29/books/review/best-books.html
 Thu Nov 29 16:57:15 2018	trashdrafts	filtered	http://www.nytimes.com/2018/11/29/business/aminatou-sow-work-diary.html
 Thu Nov 29 16:57:22 2018	trashdraft	compound comp	http://www.nytimes.com/2018/11/29/business/aminatou-sow-work-diary.html
-Thu Nov 29 20:57:35 2018	deadnaming	blend	https://www.nytimes.com/2018/11/29/opinion/twitter-deadnaming-ban-free-speech.html
+Thu Nov 29 20:57:35 2018	deadnaming	deriv	https://www.nytimes.com/2018/11/29/opinion/twitter-deadnaming-ban-free-speech.html
 Fri Nov 30 05:58:23 2018	hagyjuk	filtered	https://www.nytimes.com/2018/11/29/opinion/hungary-central-european-university-george-soros.html
 Fri Nov 30 05:59:09 2018	inexpertis	filtered	http://www.nytimes.com/2018/11/30/fashion/jewelry-hand-engraving-castro-smith.html
 Fri Nov 30 09:57:15 2018	megajails	affix	https://www.nytimes.com/2018/11/30/arts/love-after-lockup-prison-romances.html
@@ -2079,7 +2079,7 @@ Mon Dec 10 10:58:08 2018	seedsnipe	domain	http://www.nytimes.com/2018/12/10/trav
 Tue Dec 11 10:57:25 2018	mussalai	filtered	https://www.nytimes.com/2018/12/11/world/asia/sri-lanka-hotline-suicide.html
 Tue Dec 11 10:57:38 2018	waziza	onomatopoeia	https://www.nytimes.com/2018/12/11/magazine/war-yemen-american-bomb-strike.html
 Tue Dec 11 10:58:03 2018	suberogatory	blend	https://www.nytimes.com/2018/12/11/magazine/do-i-have-to-repay-a-loan-to-an-ex-lover.html
-Tue Dec 11 10:58:05 2018	cryptobubble	blend	https://www.nytimes.com/2018/12/11/magazine/whos-living-in-a-bubble.html
+Tue Dec 11 10:58:05 2018	cryptobubble	compound new	https://www.nytimes.com/2018/12/11/magazine/whos-living-in-a-bubble.html
 Tue Dec 11 16:57:42 2018	providentialy	filtered	https://www.nytimes.com/2018/12/11/movies/its-a-wonderful-life-review.html
 Wed Dec 12 10:57:49 2018	ravanhatta	filtered	https://www.nytimes.com/2018/12/12/magazine/oakland-warehouse-fire-ghost-ship.html
 Thu Dec 13 10:57:48 2018	kibathroom	blend	http://www.nytimes.com/2018/12/13/realestate/rolling-the-dice-on-development-in-dumbo.html
@@ -2090,7 +2090,7 @@ Thu Dec 13 16:57:30 2018	vilatistic	filtered	https://www.nytimes.com/2018/12/13/
 Thu Dec 13 16:57:33 2018	asensual	infl	https://www.nytimes.com/2018/12/13/movies/martyr-review.html
 Thu Dec 13 19:57:41 2018	murollida	filtered	https://www.nytimes.com/2018/12/13/books/review/cruelty-special-to-our-species-emily-jungmin-yoon.html
 Fri Dec 14 05:57:17 2018	cakeism	deriv	http://www.nytimes.com/2018/12/13/opinion/editorials/theresa-may-britain-no-confidence-brexit.html
-Fri Dec 14 10:57:29 2018	bibliotenders	blend	http://www.nytimes.com/2018/12/14/realestate/forget-the-suburbs-its-country-or-bust.html
+Fri Dec 14 10:57:29 2018	bibliotenders	affix libfix	http://www.nytimes.com/2018/12/14/realestate/forget-the-suburbs-its-country-or-bust.html
 Fri Dec 14 10:58:04 2018	khaala	filtered	https://www.nytimes.com/2018/12/14/books/review/if-they-come-for-us-fatimah-asghar.html
 Fri Dec 14 10:58:18 2018	hippocratica	filtered	https://www.nytimes.com/2018/12/14/books/review/museum-of-the-americas-j-michael-martinez.html
 Fri Dec 14 10:58:30 2018	risengrynsgrøt	filtered	https://www.nytimes.com/2018/12/14/magazine/judge-john-hodgman-on-norwegian-christmas.html
@@ -2099,7 +2099,7 @@ Mon Dec 17 10:57:27 2018	algorithmist	deriv	http://www.nytimes.com/2018/12/17/sc
 Mon Dec 17 10:57:42 2018	plastigoop	blend	http://www.nytimes.com/2018/12/17/well/family/the-case-for-creative-play-in-a-digital-age.html
 Mon Dec 17 19:57:21 2018	pycnofibers	domain	http://www.nytimes.com/2018/12/17/science/pterosaur-feathers-fur.html
 Mon Dec 17 19:57:30 2018	yeeeeeeeah	lengthening	https://www.nytimes.com/2018/12/17/movies/dolly-parton-dumplin-netflix.html
-Mon Dec 17 22:57:16 2018	cyberdoctrine	blend	http://www.nytimes.com/2018/12/17/opinion/russia-report-disinformation.html
+Mon Dec 17 22:57:16 2018	cyberdoctrine	compound comp	http://www.nytimes.com/2018/12/17/opinion/russia-report-disinformation.html
 Tue Dec 18 05:57:20 2018	undertightening	affix	http://www.nytimes.com/2018/12/17/us/politics/fed-interest-rates-wages.html
 Tue Dec 18 07:57:20 2018	blueschist	domain	https://www.nytimes.com/2018/12/18/science/plate-tectonics-continents-earth.html
 Tue Dec 18 07:57:21 2018	blueschists	filtered	https://www.nytimes.com/2018/12/18/science/plate-tectonics-continents-earth.html
@@ -2110,7 +2110,7 @@ Wed Dec 19 16:57:15 2018	sacrasol	filtered	http://www.nytimes.com/2018/12/19/t-m
 Wed Dec 19 17:57:22 2018	outwoke	affix	https://www.nytimes.com/2018/12/19/arts/television/aziz-ansari-louis-ck-comedy.html
 Wed Dec 19 19:57:31 2018	rhinoconjunctivitis	domain	http://www.nytimes.com/2018/12/19/well/family/dogs-cats-pets-kids-children-allergies-asthma.html
 Wed Dec 19 20:57:17 2018	barossii	filtered	https://www.nytimes.com/2018/12/19/science/subsurface-microbes.html
-Wed Dec 19 20:57:20 2018	audaxviator	blend	https://www.nytimes.com/2018/12/19/science/subsurface-microbes.html
+Wed Dec 19 20:57:20 2018	audaxviator	domain	https://www.nytimes.com/2018/12/19/science/subsurface-microbes.html
 Thu Dec 20 05:58:01 2018	facebar	compound new	http://www.nytimes.com/2018/12/19/technology/facebook-data-sharing.html
 Thu Dec 20 10:57:56 2018	tsrorr	filtered	https://www.nytimes.com/2018/12/20/magazine/hebrew-bible-translation.html
 Thu Dec 20 10:58:17 2018	minitrauma	affix	https://www.nytimes.com/2018/12/20/magazine/letter-of-recommendation-tio-de-nadal.html
@@ -2180,10 +2180,10 @@ Tue Jan 08 22:57:19 2019	epitrenbolone	domain	http://www.nytimes.com/2019/01/08/
 Wed Jan 09 10:57:19 2019	chinchorreo	filtered	http://www.nytimes.com/2019/01/09/travel/visit-puerto-rico.html
 Wed Jan 09 10:57:23 2019	atchd	dialect	http://www.nytimes.com/2019/01/09/magazine/grandfather-wwii-kakazu-ridge.html
 Wed Jan 09 10:57:33 2019	ungymmed	deriv	http://www.nytimes.com/2019/01/09/style/jared-polis-gay-governor.html
-Wed Jan 09 10:57:50 2019	surfperch	compound comp	http://www.nytimes.com/2019/01/09/magazine/beauty-evolution-animal.html
+Wed Jan 09 10:57:50 2019	surfperch	domain	http://www.nytimes.com/2019/01/09/magazine/beauty-evolution-animal.html
 Wed Jan 09 21:57:19 2019	homomorphism	domain	http://www.nytimes.com/2019/01/09/obituaries/dennis-johnson-dead.html
 Wed Jan 09 22:57:20 2019	archaeogenetics	domain	http://www.nytimes.com/2019/01/09/science/10-archaeology-teeth-painting.html
-Thu Jan 10 10:57:24 2019	wolfsnail	compound new	http://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html
+Thu Jan 10 10:57:24 2019	wolfsnail	domain	http://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html
 Thu Jan 10 18:57:22 2019	trabalenguas	filtered	https://www.nytimes.com/2019/01/10/arts/dance/review-miguel-gutierrez-this-bridge.html
 Fri Jan 11 10:57:55 2019	desfloró	filtered	https://www.nytimes.com/2019/01/11/books/review/wendy-guerra-revolution-sunday.html
 Fri Jan 11 10:58:03 2019	herremarkable	filtered	https://www.nytimes.com/2019/01/11/books/review/we-are-displaced-malala-yousafzai.html
@@ -2222,10 +2222,10 @@ Mon Jan 21 11:13:16 2019	paleogenomicists	domain	https://www.nytimes.com/2019/01
 Mon Jan 21 11:19:15 2019	vilvam	filtered	http://www.nytimes.com/2019/01/16/travel/budget-travel-chennai-india.html
 Mon Jan 21 14:57:19 2019	hillwalker	compound comp	http://www.nytimes.com/2019/01/21/travel/in-search-of-britains-bothies.html
 Mon Jan 21 23:57:08 2019	exfiltrator	deriv	http://www.nytimes.com/2019/01/21/obituaries/tony-mendez-dead.html
-Tue Jan 22 07:57:08 2019	plainfish	compound new	http://www.nytimes.com/2019/01/22/science/oceans-whales-noise-offshore-drilling.html
+Tue Jan 22 07:57:08 2019	plainfish	domain	http://www.nytimes.com/2019/01/22/science/oceans-whales-noise-offshore-drilling.html
 Tue Jan 22 07:57:09 2019	statocyst	domain	http://www.nytimes.com/2019/01/22/science/oceans-whales-noise-offshore-drilling.html
 Tue Jan 22 18:57:08 2019	napmobile	compound comp	http://www.nytimes.com/2019/01/22/dining/intersect-by-lexus-restaurant-review.html
-Wed Jan 23 05:57:37 2019	cryptomining	blend	http://www.nytimes.com/2019/01/22/business/georgia-bitcoin-blockchain-bitfury.html
+Wed Jan 23 05:57:37 2019	cryptomining	compound comp	http://www.nytimes.com/2019/01/22/business/georgia-bitcoin-blockchain-bitfury.html
 Wed Jan 23 18:57:08 2019	womanhole	blend	http://www.nytimes.com/2019/01/23/arts/television/broad-city-high-maintenance-unbreakable-kimmy-schmidt-review.html
 Wed Jan 23 19:57:15 2019	nannymania	affix	https://www.nytimes.com/2019/01/23/books/review/adele-leila-slimani.html
 Wed Jan 23 20:57:01 2019	beclown	deriv	http://www.nytimes.com/2019/01/23/opinion/covington-twitter.html
@@ -2234,7 +2234,7 @@ Thu Jan 24 14:57:07 2019	inflatus	filtered	http://www.nytimes.com/2019/01/24/hea
 Thu Jan 24 16:57:08 2019	carrolldongi	domain	http://www.nytimes.com/2019/01/24/science/platypus-fossil-duckbill.html
 Thu Jan 24 18:57:17 2019	framboyán	filtered	http://www.nytimes.com/2019/01/24/style/immigrant-identity-travel.html
 Thu Jan 24 22:57:11 2019	ultramillionaire	affix	http://www.nytimes.com/2019/01/24/us/politics/wealth-tax-democrats.html
-Thu Jan 24 22:57:18 2019	whiskerbush	compound comp	http://www.nytimes.com/2019/01/24/climate/border-wall-wildlife.html
+Thu Jan 24 22:57:18 2019	whiskerbush	domain	http://www.nytimes.com/2019/01/24/climate/border-wall-wildlife.html
 Fri Jan 25 10:57:05 2019	kronoseismology	compound comp	http://www.nytimes.com/2019/01/25/science/saturn-day-length.html
 Fri Jan 25 10:57:32 2019	soulappella	blend	http://www.nytimes.com/2019/01/25/nyregion/madison-mcferrin-bobby-mcferrin.html
 Fri Jan 25 11:57:18 2019	slowbalization	blend	http://www.nytimes.com/2019/01/25/business/dealbook/trump-ross-pelosi-shutdown.html
@@ -2249,7 +2249,7 @@ Mon Jan 28 18:57:10 2019	ev’ything	dialect	https://www.nytimes.com/2019/01/28/
 Mon Jan 28 19:57:02 2019	infrarrealismo	filtered	https://www.nytimes.com/2019/01/28/books/review/roberto-bolano-spirit-science-fiction.html
 Mon Jan 28 19:57:04 2019	infrarealists	affix	https://www.nytimes.com/2019/01/28/books/review/roberto-bolano-spirit-science-fiction.html
 Mon Jan 28 20:57:03 2019	undung	affix	http://www.nytimes.com/2019/01/28/books/review-let-me-finish-chris-christie.html
-Tue Jan 29 09:56:59 2019	bullcrapometer	blend	http://www.nytimes.com/2019/01/29/arts/television/stephen-colbert-trump-government-shutdown.html
+Tue Jan 29 09:56:59 2019	bullcrapometer	affix	http://www.nytimes.com/2019/01/29/arts/television/stephen-colbert-trump-government-shutdown.html
 Tue Jan 29 10:57:12 2019	suchprojects	filtered	http://www.nytimes.com/2019/01/29/travel/surf-camp-tech.html
 Tue Jan 29 18:57:20 2019	guaxmole	variant	http://www.nytimes.com/2019/01/29/dining/casa-enrique-review.html
 Tue Jan 29 19:57:12 2019	scialatelli	filtered	http://www.nytimes.com/2019/01/29/dining/nyc-restaurant-news.html
@@ -2272,7 +2272,7 @@ Fri Feb 01 10:57:42 2019	pothounds	compound comp	https://www.nytimes.com/2019/02
 Fri Feb 01 10:58:41 2019	organomegaly	domain	http://www.nytimes.com/2019/02/01/magazine/the-patients-wife-thought-her-husband-was-being-treated-for-the-wrong-disease-she-was-right.html
 Fri Feb 01 11:57:34 2019	flealess	affix	http://www.nytimes.com/2019/02/01/reader-center/dog-wedding-reporting-lilly-smartelli.html
 Fri Feb 01 11:58:01 2019	puptials	blend	http://www.nytimes.com/2019/02/01/reader-center/dog-wedding-reporting-lilly-smartelli.html
-Fri Feb 01 17:56:59 2019	spurdog	compound new	http://www.nytimes.com/2019/02/01/world/europe/uk-fish-and-chips-shark.html
+Fri Feb 01 17:56:59 2019	spurdog	domain	http://www.nytimes.com/2019/02/01/world/europe/uk-fish-and-chips-shark.html
 Fri Feb 01 19:57:16 2019	subscriberson	filtered	https://www.nytimes.com/2019/02/01/style/what-is-graydon-carter-doing-now.html
 Sat Feb 02 05:57:16 2019	hon’ne	filtered	http://www.nytimes.com/2019/02/01/reader-center/motoko-rich-behind-the-byline.html
 Sat Feb 02 05:57:20 2019	yabai	filtered	http://www.nytimes.com/2019/02/01/reader-center/motoko-rich-behind-the-byline.html
@@ -2287,7 +2287,7 @@ Mon Feb 04 17:57:17 2019	chimpanzombies	blend	https://www.nytimes.com/2019/02/04
 Mon Feb 04 17:57:23 2019	pitward	affix	http://www.nytimes.com/2019/02/04/books/review-bowlaway-elizabeth-mccracken.html
 Tue Feb 05 10:57:32 2019	adhocrat	blend	http://www.nytimes.com/2019/02/05/magazine/denis-voronenkov-assassination-russia-ukraine.html
 Tue Feb 05 15:57:05 2019	prasiolite	domain	http://www.nytimes.com/2019/02/05/t-magazine/silvia-venturini-fendi-inspiration.html
-Tue Feb 05 16:57:02 2019	specklebelly	compound comp	http://www.nytimes.com/2019/02/05/dining/game-hunting-food.html
+Tue Feb 05 16:57:02 2019	specklebelly	domain	http://www.nytimes.com/2019/02/05/dining/game-hunting-food.html
 Tue Feb 05 20:57:26 2019	trichromats	domain	http://www.nytimes.com/2019/02/05/magazine/letter-of-recommendation-color-blind-pal.html
 Tue Feb 05 20:57:32 2019	noncolorblind	affix	http://www.nytimes.com/2019/02/05/magazine/letter-of-recommendation-color-blind-pal.html
 Wed Feb 06 09:56:57 2019	hisdemands	filtered	http://www.nytimes.com/2019/02/05/us/politics/state-of-the-union-2019.html
@@ -2312,7 +2312,7 @@ Fri Feb 08 18:57:21 2019	culinaryish	affix	https://www.nytimes.com/2019/02/08/di
 Sat Feb 09 18:57:03 2019	gynandromorphic	affix	http://www.nytimes.com/2019/02/09/science/cardinal-sex-gender.html
 Sun Feb 10 16:57:00 2019	prov’d	dialect	https://www.nytimes.com/2019/02/10/dining/what-to-cook-this-week.html
 Sun Feb 10 17:56:59 2019	sumatrae	domain	http://www.nytimes.com/2019/02/10/world/europe/london-zoo-tiger.html
-Sun Feb 10 20:56:56 2019	cryptotechnology	blend	http://www.nytimes.com/2019/02/10/business/south-korea-bitcoin-cryptocurrencies.html
+Sun Feb 10 20:56:56 2019	cryptotechnology	compound comp	http://www.nytimes.com/2019/02/10/business/south-korea-bitcoin-cryptocurrencies.html
 Mon Feb 11 10:57:13 2019	albuginea	domain	http://www.nytimes.com/2019/02/11/well/live/a-new-treatment-for-a-painful-penis-curvature.html
 Mon Feb 11 16:57:12 2019	damkoni	filtered	https://www.nytimes.com/2019/02/11/dining/persian-rice-cooking.html
 Mon Feb 11 16:57:14 2019	damkonee	filtered	https://www.nytimes.com/2019/02/11/dining/persian-rice-cooking.html
@@ -2390,7 +2390,7 @@ Fri Feb 22 10:58:02 2019	godsgem	filtered	https://www.nytimes.com/2019/02/22/boo
 Fri Feb 22 10:58:52 2019	pewag	filtered	https://www.nytimes.com/2019/02/22/education/learning/mobile-job-training-community-college.html
 Fri Feb 22 14:56:41 2019	frogwomen	compound comp	http://www.nytimes.com/2019/02/22/fashion/prada-moschino-jeremy-scott-milan.html
 Fri Feb 22 18:57:03 2019	ingqondo	filtered	http://www.nytimes.com/2019/02/22/arts/music/pretty-yende-la-fille-du-regiment-met-opera.html
-Fri Feb 22 19:56:46 2019	cyberlibel	blend	http://www.nytimes.com/2019/02/22/opinion/maria-ressa-facebook-philippines-.html
+Fri Feb 22 19:56:46 2019	cyberlibel	compound comp	http://www.nytimes.com/2019/02/22/opinion/maria-ressa-facebook-philippines-.html
 Fri Feb 22 22:56:52 2019	vahar’ai	filtered	https://www.nytimes.com/2019/02/22/arts/television/star-trek-discovery-recap.html
 Sat Feb 23 11:56:45 2019	rocabi	filtered	http://www.nytimes.com/2019/02/23/style/weighted-blankets-sleep.html
 Sun Feb 24 14:56:50 2019	gruxury	blend	http://www.nytimes.com/2019/02/24/fashion/versace-armani-milan.html
@@ -2543,7 +2543,7 @@ Wed Mar 20 20:56:35 2019	heteropagus	domain	http://www.nytimes.com/2019/03/20/he
 Wed Mar 20 21:56:26 2019	eachdwelling	filtered	https://www.nytimes.com/2019/03/20/movies/dragged-across-concrete-review.html
 Thu Mar 21 09:56:31 2019	pilegesh	filtered	http://www.nytimes.com/2019/03/21/nyregion/michael-steinhardt-sexual-harassment.html
 Thu Mar 21 10:56:21 2019	jahenda	filtered	http://www.nytimes.com/2019/03/21/world/asia/nowruz-afghanistan-atta-mohammed-noor.html
-Thu Mar 21 17:56:16 2019	cybermercenaries	compound new	http://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html
+Thu Mar 21 17:56:16 2019	cybermercenaries	compound comp	http://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html
 Thu Mar 21 18:56:29 2019	churinga	filtered	https://www.nytimes.com/2019/03/21/arts/design/museums-human-remains.html
 Thu Mar 21 18:56:31 2019	churingas	filtered	https://www.nytimes.com/2019/03/21/arts/design/museums-human-remains.html
 Thu Mar 21 23:56:15 2019	machambas	filtered	http://www.nytimes.com/2019/03/21/world/africa/cyclone-idai.html
